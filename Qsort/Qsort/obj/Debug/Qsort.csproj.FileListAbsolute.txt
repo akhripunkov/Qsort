@@ -1,0 +1,7 @@
+C:\Users\NewUser\source\repos\Qsort\Qsort\bin\Debug\Qsort.exe.config
+C:\Users\NewUser\source\repos\Qsort\Qsort\bin\Debug\Qsort.exe
+C:\Users\NewUser\source\repos\Qsort\Qsort\bin\Debug\Qsort.pdb
+C:\Users\NewUser\source\repos\Qsort\Qsort\obj\Debug\Qsort.csprojAssemblyReference.cache
+C:\Users\NewUser\source\repos\Qsort\Qsort\obj\Debug\Qsort.csproj.CoreCompileInputs.cache
+C:\Users\NewUser\source\repos\Qsort\Qsort\obj\Debug\Qsort.exe
+C:\Users\NewUser\source\repos\Qsort\Qsort\obj\Debug\Qsort.pdb
